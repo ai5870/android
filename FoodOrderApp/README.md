@@ -1,11 +1,7 @@
-# FoodOrderApp
+# Food Order App
 
-Android Food Order App with Menu and Activities
+Android application demonstrating CheckBox components for selecting food items and displaying the selected order summary using a Toast.
 
-## Included Files
-- `MainActivity.java`
-- `activity_main.xml`
-- `MainActivity1.java`
-- `activity_main1.xml`
-- `MainActivity2.java`
-- `activity_main2.xml`
+## Files
+- `MainActivity.java` - CheckBox event listener and order summary builder
+- `activity_main.xml` - UI layout with CheckBoxes and Submit button
